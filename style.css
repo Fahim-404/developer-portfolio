@@ -67,6 +67,7 @@ h2 {
     border-radius: 2%;
 
 
+
 }
 
 .Experience {
@@ -75,4 +76,16 @@ h2 {
     background-position: left;
 
 
+}
+
+#border-1 {
+    border-left: 7px solid red;
+}
+
+#border {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
